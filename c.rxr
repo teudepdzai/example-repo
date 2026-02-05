@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <nav id="navbar">
+            <ul class="menu">
+                <li><a href="#">Home</a></li>
+
+                <li class="dropdown">
+                    <a href="#">Skills</a>
+                    <ul class="dropdown-menu">
+                        <li class="navele"><a href="">Concept</a></li>
+                        <li class="navele"><a href="">Explore</a></li>
+                        <li class="navele"><a href="">Character</a></li>
+                        <li class="navele"><a href="">Function</a></li>
+                        <li class="navele"><a href="">Structure</a></li>
+                        <li class="navele"><a href="">Style</a></li>
+                        <li class="navele"><a href="">Organise</a></li>
+                        <li class="navele"><a href="">Recipe</a></li>
+                    </ul>
+                </li>
+
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+            
+        </nav>
+        <div id="intro">
+            <h1 id="header">Explore the beauty of storytelling</h1>
+            <p id="txt">Ever wonder why some stories instantly pull you in while others quietly fade away? Storytelling isn’t just about having a good idea—it’s about knowing how to shape it. This website is a practical guide to telling clear, convincing stories, whether you’re writing fiction, explaining a concept, or sharing an experience. We break storytelling down into understandable pieces—structure, character, purpose, and style—so you can turn scattered thoughts into stories that make sense and leave an impact.</p>
+        </div>
+        <!-- <nav class="navbar">
+            <ul class="menu">
+                <li><a href="#">Home</a></li>
+
+                <li class="dropdown">
+                <a href="#">Services ▾</a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">Web Design</a></li>
+                    <li><a href="#">Development</a></li>
+                    <li><a href="#">SEO</a></li>
+                </ul>
+                </li>
+
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav> -->
+
+    </body>
+</html>
